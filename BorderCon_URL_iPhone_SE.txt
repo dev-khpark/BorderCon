@@ -1,6 +1,3 @@
 https://raw.githubusercontent.com/dev-khpark/BorderCon/master/iPhone_SE_0.png
 https://raw.githubusercontent.com/dev-khpark/BorderCon/master/iPhone_SE_1.png
 https://raw.githubusercontent.com/dev-khpark/BorderCon/master/iPhone_SE_2.png
-https://raw.githubusercontent.com/dev-khpark/BorderCon/master/iPhone_SE_3.png
-https://raw.githubusercontent.com/dev-khpark/BorderCon/master/iPhone_SE_4.png
-https://raw.githubusercontent.com/dev-khpark/BorderCon/master/iPhone_SE_5.png
